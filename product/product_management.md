@@ -37,8 +37,7 @@ You’ll want to revisit all of the above now and then to reflect new learnings 
 
 Once a product is in active development, your time might be spent driving the daily operations of your team. This might mean: 
 
-- identifying and championing a project management
-- process that works for your team
+- identifying and championing a project management process that works for your team
 - facilitating collaboration and feedback within the team
 - soliciting and responding to external feedback through demos, testing links, updates
 - making difficult decisions to keep your budget and roadmap on track
