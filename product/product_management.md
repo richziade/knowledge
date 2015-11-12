@@ -59,4 +59,6 @@ At Postlight, we ask our product managers to be proficient in modern technology 
 
 Product managers should be exceptionally strong communicators. They serve as the the face of their products to various stakeholders, both internal and external. Product managers help facilitate communication between otherwise disconnected groups, so distilling and relaying information must come naturally.
 
+Beyond facilitating and communicating, an exceptional product manager represents the product with passion and conviction. In a sense they represent the product just as an entrepreneur would represent a startup. They defend the strategy and direction of the effort. 
+
 On smaller teams, product managers sometimes contribute as developers or designers on their teams as well. As a product manager, your workload will vary with the stage of your product, the type of product you’re building, and the size and capability of your team. Being able to contribute to design or development can help keep a product manager engaged when a product doesn’t require full time management.
